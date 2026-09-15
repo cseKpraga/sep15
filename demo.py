@@ -1,4 +1,5 @@
 def display():
   print("hi")
-  print("github")
+  print("hello")
+  print("welcome")
 display()
